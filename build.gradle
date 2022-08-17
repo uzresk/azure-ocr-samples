@@ -3,7 +3,7 @@ plugins {
     id 'application'
 }
 application { 
-    mainClass.set("jp.gr.java_conf.uzresk.azure.cv.samples.OcrFromLocal")
+    mainClass.set("jp.gr.java_conf.uzresk.azure.cv.samples.OcrFromRemoteSample")
 }
 
 repositories {
